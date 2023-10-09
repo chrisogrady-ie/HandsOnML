@@ -1,0 +1,18 @@
+What is the big picture of the project?
+What is the goal acquired from this project
+Get the data
+Explore the data to gain insights
+Frame the data
+    - supervised, unsupervised, reinforcement
+    - classification, regression
+    - batch learning, online learning
+List assumptions
+Prepare the data to expose underlying patterns(ML)
+Explore many different models
+Fine tune models to turn them into a better solution
+Present the solution
+
+m = instances of RMSE(Root Mean Square Error)
+x(i) = occurrence of all the feature values at (i)
+y(i) = desired output for that instance
+try for a bell shaped curve through transformations for better ML algorithms
